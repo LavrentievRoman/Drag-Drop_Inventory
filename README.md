@@ -29,4 +29,4 @@
 
 Для проверки работы квестовых предметов необходимо перетащить **Ключ** на **Оранжевый квадрат**. Тогда персонаж подойдёт к квадрату и использует предмет (он исчезнет из инвентаря).
 
-При сохранении инвентаря все данные сохраняются в **JSON** файл расположенный по адресу **"C:\Users\*user_name*\AppData\LocalLow\DefaultCompany\*project_name*\playerInventory.json"**
+При сохранении инвентаря все данные сохраняются в **JSON** файл расположенный по адресу **"C:\Users\user_name\AppData\LocalLow\DefaultCompany\project_name\playerInventory.json"**
