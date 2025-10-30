@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f725fcf64c69098489e459d7a5d6b27f, type: 3}
+  m_Name: OpenInventoryInputScheme
+  m_EditorClassIdentifier: 
+  <Actions>k__BackingField:
+  - {fileID: 11400000, guid: afc64c6224476494399a20d489f04ebc, type: 2}
+  - {fileID: 11400000, guid: f268f116a5bd7464fa73a659aa05cb58, type: 2}
+  - {fileID: 11400000, guid: 2370260be84682f4cbf00c66be353361, type: 2}
+  - {fileID: 11400000, guid: 5de50d1c66d445947adb073e6c8f8c97, type: 2}
+  - {fileID: 11400000, guid: a9db2fd13f419dc4d9401e0c68a7824f, type: 2}
